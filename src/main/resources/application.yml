@@ -14,3 +14,6 @@ management:
       enabled: true
     env:
       enabled: true
+    os:
+      enabled: true
+
