@@ -8,3 +8,5 @@ management:
   info:
     java:
       enabled: true
+    git:
+      enabled: true
