@@ -10,3 +10,5 @@ management:
       enabled: true
     git:
       enabled: true
+    build:
+      enabled: true
