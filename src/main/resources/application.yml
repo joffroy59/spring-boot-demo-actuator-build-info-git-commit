@@ -8,10 +8,3 @@ management:
   info:
     java:
       enabled: true
-
-info:
-  app:
-    encoding: "@project.build.sourceEncoding@"
-    java:
-      source: "@java.version@"
-      target: "@java.version@"
